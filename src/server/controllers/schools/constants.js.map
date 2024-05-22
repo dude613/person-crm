@@ -1,0 +1,1 @@
+{"version":3,"file":"constants.js","sourceRoot":"","sources":["../../../../src/controllers/schools/constants.ts"],"names":[],"mappings":";;;AAAa,QAAA,SAAS,GAAG;IACrB,EAAE,EAAE,GAAG;IACP,SAAS,EAAE,GAAG;IACd,qBAAqB,EAAE,GAAG;IAC1B,UAAU,EAAE,GAAG;IACf,eAAe,EAAE,uBAAuB;IACxC,gBAAgB,EAAE,kBAAkB;IACpC,cAAc,EAAE,iBAAiB;IACjC,mBAAmB,EAAE,qBAAqB;CAC7C,CAAC"}
