@@ -13,7 +13,7 @@ const GoBack = () => {
           className="flex items-center font-bold gap-2"
         >
           <ArrowLeft className="h-4 w-4" />
-          <span>Go Back</span>
+          <span>Back</span>
         </button>
       </div>
   )
