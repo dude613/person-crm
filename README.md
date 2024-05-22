@@ -1,4 +1,4 @@
-# Project Name
+# The True Faces
 
 ## Overview
 
@@ -88,13 +88,13 @@ This project consists of two main folders: `client` and `server`. The `client` f
 
 ### Server
 
-1. The path to server will me :
+1. The path to the server will me :
 
     ```bash
     ./server
     ```
 
-2. Specify this as the start command in you cloud:
+2. Specify this as the start command in your cloud:
 
     ```bash
     npm run prod
@@ -105,13 +105,13 @@ This project consists of two main folders: `client` and `server`. The `client` f
 ### Client
 
 
-1. The path to client will me :
+1. The path to the client will be :
 
     ```bash
     ./server
     ```
 
-2 Vercel will automatically deploy nextjs app
+2 Vercel will automatically deploy the Next.js app
 
 ## Additional Notes
 
