@@ -1,4 +1,38 @@
+# Next.js
+.next/
+out/
+
+# Build files
+dist/
+build/
+
+# Dependency directories
 node_modules/
-.DS_Store
+
+# Environment variables
 .env
-dist
+
+# Logs
+*.log
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+
+# Compiled files
+*.js
+*.js.map
+*.d.ts
+*.tsbuildinfo
+
+# Testing
+/coverage/
+/jest-report/
+
+# Deployment
+.vercel/
+out/
+
+# Other
+.DS_Store
