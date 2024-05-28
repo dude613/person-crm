@@ -1,4 +1,4 @@
-// File: C:\Users\aorli\Documents\code\ttf\main\client\src\app\(auth)\login\layout.tsx
+// File: C:\Users\aorli\Documents\code\ttf\main\src\app\(auth)\login\layout.tsx
 import * as entry from '../../../../../src/app/(auth)/login/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

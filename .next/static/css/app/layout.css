@@ -1963,6 +1963,9 @@ video {
 .duration-200 {
   animation-duration: 200ms;
 }
+.running {
+  animation-play-state: running;
+}
 
 .rdp-vhidden {
   display: none;
